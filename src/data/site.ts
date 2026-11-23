@@ -14,8 +14,7 @@ export const site = {
   /** Optional: Google Maps embed URL (Share → Embed a map → copy the src). Leave empty to hide the map. */
   mapsEmbed: 'https://www.google.com/maps?q=Pausenchill+Angallu+Andhra+Pradesh+517326&output=embed',
   hours: [
-    { days: 'Monday – Friday', time: '11:00 AM – 10:00 PM' },
-    { days: 'Saturday – Sunday', time: '11:00 AM – 11:00 PM' },
+    { days: 'Every day', time: '10:00 AM – 10:00 PM' },
   ],
   social: {
     instagram: 'https://www.instagram.com/pause_nchill',

@@ -27,6 +27,7 @@ export function Footer() {
         <span>© {new Date().getFullYear()} {site.name}. All rights reserved.</span>
         <span>Prices in INR. Menu and prices may change without notice.</span>
       </div>
+      <div className="container footer__credit">Design and developed by Avora Brands</div>
     </footer>
   );
 }

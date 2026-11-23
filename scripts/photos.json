@@ -1,0 +1,338 @@
+{
+ "veg-pizza": {
+  "id": 5112509
+ },
+ "cheese-pizza": {
+  "id": 31596394
+ },
+ "paneer-pizza": {
+  "id": 578009
+ },
+ "sweet-corn-pizza": {
+  "id": 31450861
+ },
+ "veg-burger": {
+  "id": 36963518
+ },
+ "paneer-burger": {
+  "id": 36701468
+ },
+ "cheese-burger": {
+  "id": 11220676
+ },
+ "veg-roll": {
+  "id": 38644476
+ },
+ "paneer-roll": {
+  "id": 20395267
+ },
+ "veg-sandwich": {
+  "id": 36268509
+ },
+ "cheese-sandwich": {
+  "id": 13995291
+ },
+ "sweet-corn-sandwich": {
+  "id": 36268517
+ },
+ "paneer-sandwich": {
+  "id": 28674560
+ },
+ "veg-fried-momos-5-pcs": {
+  "id": 28445591
+ },
+ "veg-fingers-5-pcs": {
+  "id": 8848610
+ },
+ "french-fries": {
+  "id": 8272622
+ },
+ "veg-nuggets-5-pcs": {
+  "id": 31300944
+ },
+ "chicken-pizza": {
+  "id": 5639547
+ },
+ "chicken-roll": {
+  "id": 33430554
+ },
+ "special-chicken-roll": {
+  "id": 5779364
+ },
+ "stripe-chicken-roll": {
+  "id": 9980764
+ },
+ "chicken-burger": {
+  "id": 38036571
+ },
+ "chicken-crispy-burger": {
+  "id": 10935114
+ },
+ "chicken-sandwich": {
+  "id": 17569017
+ },
+ "chicken-nuggets": {
+  "id": 39853099
+ },
+ "chicken-fingers": {
+  "id": 37228290
+ },
+ "chicken-popcorn": {
+  "id": 33037756
+ },
+ "chicken-wings-4-pcs": {
+  "id": 6369302
+ },
+ "chicken-lollipop-3-pcs": {
+  "id": 39849993
+ },
+ "chicken-lollipop-4-pcs": {
+  "id": 36879224
+ },
+ "mini-bucket": {
+  "id": 38644468
+ },
+ "large-bucket": {
+  "id": 37324427
+ },
+ "watermelon-juice": {
+  "id": 11009203
+ },
+ "pineapple-juice": {
+  "id": 27518954
+ },
+ "banana-juice": {
+  "id": 2372530
+ },
+ "papaya-juice": {
+  "id": 8181521
+ },
+ "mosambi-juice": {
+  "id": 17612833
+ },
+ "orange-juice": {
+  "id": 14510445
+ },
+ "muskmelon-juice": {
+  "id": 7890202
+ },
+ "grapes-juice": {
+  "id": 7372032
+ },
+ "sapota-juice": {
+  "id": 17612822
+ },
+ "apple-juice": {
+  "id": 8228301
+ },
+ "pomegranate-juice": {
+  "id": 9508010
+ },
+ "kiwi-juice": {
+  "id": 32763237
+ },
+ "sweet-lassi": {
+  "id": 18142611
+ },
+ "banana-lassi": {
+  "id": 18142603
+ },
+ "masala-lassi": {
+  "id": 6808666
+ },
+ "strawberry-lassi": {
+  "id": 11410545
+ },
+ "pineapple-lassi": {
+  "id": 27275593
+ },
+ "mango-lassi": {
+  "id": 17200460
+ },
+ "green-apple-lassi": {
+  "id": 9756322
+ },
+ "black-currant-lassi": {
+  "id": 40453803
+ },
+ "vanilla-milk-shake": {
+  "id": 28525197
+ },
+ "banana-milk-shake": {
+  "id": 6463660
+ },
+ "apple-milk-shake": {
+  "id": 18142619
+ },
+ "pineapple-milk-shake": {
+  "id": 5005919
+ },
+ "cherry-vanilla-milk-shake": {
+  "id": 6672558
+ },
+ "mango-milk-shake": {
+  "id": 31490093
+ },
+ "strawberry-milk-shake": {
+  "id": 11410548
+ },
+ "butterscotch-milk-shake": {
+  "id": 7091585
+ },
+ "pista-milk-shake": {
+  "id": 12419191
+ },
+ "black-currant-milk-shake": {
+  "id": 7463310
+ },
+ "blue-berry-milk-shake": {
+  "id": 3625372
+ },
+ "chocolate-milk-shake": {
+  "id": 38178695
+ },
+ "dry-fruit-milk-shake": {
+  "id": 11410543
+ },
+ "oreo-shake": {
+  "id": 15014066
+ },
+ "kit-kat-shake": {
+  "id": 34487833
+ },
+ "snickers-shake": {
+  "id": 13252531
+ },
+ "dairy-milk-shake": {
+  "id": 3727250
+ },
+ "5-star-shake": {
+  "id": 20066397
+ },
+ "munch-shake": {
+  "id": 7091588
+ },
+ "belgian-chips-shake": {
+  "id": 34224584
+ },
+ "belgium-chocolate-shake": {
+  "id": 2559025
+ },
+ "vanilla-thick-shake": {
+  "id": 18142623
+ },
+ "mango-thick-shake": {
+  "id": 8211179
+ },
+ "oreo-thick-shake": {
+  "id": 34926740
+ },
+ "butterscotch-thick-shake": {
+  "id": 7091587
+ },
+ "blue-berry-thick-shake": {
+  "id": 8056646
+ },
+ "chocolate-thick-shake": {
+  "id": 20066464
+ },
+ "black-currant-thick-shake": {
+  "id": 4551417
+ },
+ "pista-thick-shake": {
+  "id": 4557152
+ },
+ "dry-fruits-thick-shake": {
+  "id": 8743863
+ },
+ "cold-coffee": {
+  "id": 18142624
+ },
+ "cold-coffee-with-ice": {
+  "id": 33720736
+ },
+ "almond-coffee": {
+  "id": 32395606
+ },
+ "chocolate-coffee": {
+  "id": 8444426
+ },
+ "lemon-sambath": {
+  "id": 4315984
+ },
+ "sweet-and-salt": {
+  "id": 2109099
+ },
+ "blue-curacao": {
+  "id": 5856353
+ },
+ "lemon-soda": {
+  "id": 4045205
+ },
+ "blue-ocean": {
+  "id": 4762724
+ },
+ "classic-mojito": {
+  "id": 4051265
+ },
+ "mojito-curacao": {
+  "id": 30839489
+ },
+ "gud-bud": {
+  "id": 5060467
+ },
+ "banana-split": {
+  "id": 16560563
+ },
+ "arabian-fantasy": {
+  "id": 28735372
+ },
+ "mango": {
+  "id": 5060450
+ },
+ "chocolate": {
+  "id": 5061214
+ },
+ "butterscotch": {
+  "id": 5060454
+ },
+ "brownie-and-cream-delight": {
+  "id": 11867534
+ },
+ "honey-moon": {
+  "id": 375465
+ },
+ "death-by-chocolate": {
+  "id": 34964934
+ },
+ "hero-main": {
+  "id": 20003230,
+  "dir": ""
+ },
+ "hero-shake": {
+  "id": 18142621,
+  "dir": ""
+ },
+ "hero-icecream": {
+  "id": 33530220,
+  "dir": ""
+ },
+ "combo-1": {
+  "id": 29850814
+ },
+ "combo-2": {
+  "id": 19786209
+ },
+ "combo-3": {
+  "id": 36305969
+ },
+ "combo-4": {
+  "id": 14661492
+ },
+ "combo-5": {
+  "id": 29418865
+ },
+ "combo-6": {
+  "id": 5474676
+ }
+}
